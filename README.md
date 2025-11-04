@@ -57,7 +57,7 @@ User → React UI → LangChain Agent (Gemini) → MongoDB (Vector Index + Keywo
 
 ***
 
-## Next Steps & Sprint 2 Goals
+## Next Steps & Goals
 
 **From discussion:**
 - Support multiple data/document sources in the retrieval agent
