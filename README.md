@@ -1,4 +1,3 @@
-Here’s a tailored **README.md** draft based on your project information, following standard open-source formatting. You can copy this and adjust details as you proceed through Sprint 2.
 
 ***
 
@@ -8,7 +7,7 @@ Here’s a tailored **README.md** draft based on your project information, follo
 
 ## Project Overview
 
-A cost-efficient, retrieval-augmented AI chatbot built to accurately answer customer FAQs and contextually promote the company’s digital products within live conversations. The solution is demoed via a web mockup and is designed for scalability.
+A cost-efficient, retrieval-augmented AI chatbot built for a demo ecommerce website to accurately answer customer FAQs and contextually promote the company’s digital products within live conversations. The solution is demoed via a web mockup and is designed for scalability.
 
 ***
 
